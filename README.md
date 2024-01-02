@@ -37,9 +37,9 @@ LinkedIn Clone is a full-stack web application built using React, Redux, Firebas
 
 ## Screenshots
 
-![image](https://github.com/Damon248/linkedin-clone/assets/91674984/419e3279-a9f8-42aa-8201-98c31f1e3504)
-![image](https://github.com/Damon248/linkedin-clone/assets/91674984/aef4d48e-de60-4cdc-baff-715e09266cd8)
-![image](https://github.com/Damon248/linkedin-clone/assets/91674984/ea342600-e092-47e4-9742-13e5897d6d13)
+![image](https://github.com/Damon248/linkedin-clone/assets/91674984/50033fab-abf0-45bc-9c5c-b95f9ee28c41)
+![image](https://github.com/Damon248/linkedin-clone/assets/91674984/582a181b-c56d-4aa9-95a7-cc5f05f4e7fb)
+
 
 ## Goals Achieved
 
